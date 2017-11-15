@@ -1,5 +1,4 @@
 const chalk = require('chalk')
-const figlet = require('figlet')
 
 helloBlue = () => console.log(chalk.blue("Hello world"))
 helloRed = () => console.log(chalk.red("Hello world"))
